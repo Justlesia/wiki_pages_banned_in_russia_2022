@@ -13,3 +13,5 @@
 * 'Кто' - Ведомство внесшее в реестр \ Office that entered the register
 * 'Год внесения' — Год вынесения информации в реестр \ Year when the block was entered into the registry
 * 'Год исключения' — Год исключения из реестра \ Year of exclusion from the register
+
+![Страницы Википедии, запрещённые в России](wiki_ban_fig.svg "Страницы Википедии, запрещённые в России")
